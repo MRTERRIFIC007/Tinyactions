@@ -3,9 +3,9 @@
 Tiny Action Recognition
 Low-Res Activity Detection and Recognition
 
-[![GitHub license](https://img.shields.io/github/license/your-username/tiny-action-recognition)](https://github.com/mrterrific007/Tinyactions/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/tiny-action-recognition)](https://github.com/mrterrific007/Tinyactions/issues)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/tiny-action-recognition)](https://github.com/mrterrific007/Tinyactions/stargazers)
+[![GitHub license](https://img.shields.io/github/license/mrterrific007/Tinyactions)](https://github.com/mrterrific007/Tinyactions/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/mrterrific007/Tinyactions)](https://github.com/mrterrific007/Tinyactions/issues)
+[![GitHub stars](https://img.shields.io/github/stars/mrterrific007/Tinyactions)](https://github.com/mrterrific007/Tinyactions/stargazers)
 
 ## Overview
 
