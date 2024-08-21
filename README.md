@@ -33,7 +33,7 @@ The goal is to push the boundaries of what's possible with activity recognition,
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/tiny-action-recognition.git
+git clone https://github.com/mrterrific007/tiny-action-recognition.git
 ```
 
 2. Install the required dependencies:
